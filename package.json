@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "changelog": "node ./generateChangelog.js && node ./changelog.js"
+    "changelog": "node ../generateChangelog.js && node ../changelog.js"
   },
   "repository": {
     "type": "git",
