@@ -4,6 +4,397 @@
     "date": null,
     "commits": [
       {
+        "fullHash": "aef16a7d4f95385a858662c35889ebf346bffd69",
+        "partialHash": "aef16a7",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T16:29:38.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T16:29:38.000Z",
+        "subject": "fix: add yarn install to action",
+        "body": "",
+        "tags": [],
+        "type": "fix",
+        "scope": null,
+        "scopeText": null,
+        "breakingChange": false,
+        "description": "add yarn install to action"
+      },
+      {
+        "fullHash": "c06d155abacfe187ebbc6a64c84c275ac8114aa6",
+        "partialHash": "c06d155",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T16:20:16.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T16:20:16.000Z",
+        "subject": "fix: add yarn install to action",
+        "body": "",
+        "tags": [],
+        "type": "fix",
+        "scope": null,
+        "scopeText": null,
+        "breakingChange": false,
+        "description": "add yarn install to action"
+      },
+      {
+        "fullHash": "09b140a89f9d3f1071a31ed600cf052d2e17acad",
+        "partialHash": "09b140a",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T16:17:48.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T16:17:48.000Z",
+        "subject": "fix: add yarn install to action",
+        "body": "",
+        "tags": [],
+        "type": "fix",
+        "scope": null,
+        "scopeText": null,
+        "breakingChange": false,
+        "description": "add yarn install to action"
+      },
+      {
+        "fullHash": "9ca467e2898f11632ab41e5d8e3605fff1e948a1",
+        "partialHash": "9ca467e",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T16:17:01.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T16:17:01.000Z",
+        "subject": "fix: add yarn install to action",
+        "body": "",
+        "tags": [],
+        "type": "fix",
+        "scope": null,
+        "scopeText": null,
+        "breakingChange": false,
+        "description": "add yarn install to action"
+      },
+      {
+        "fullHash": "eef919ef0ba4c1bd6412f1536a3a61a7a6cdefe7",
+        "partialHash": "eef919e",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T16:12:29.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T16:12:29.000Z",
+        "subject": "fix: add yarn install to action",
+        "body": "",
+        "tags": [],
+        "type": "fix",
+        "scope": null,
+        "scopeText": null,
+        "breakingChange": false,
+        "description": "add yarn install to action"
+      },
+      {
+        "fullHash": "74f57ef611d1974d1915b18d0cb9bd7763d260f0",
+        "partialHash": "74f57ef",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T16:11:23.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T16:11:23.000Z",
+        "subject": "fix: add yarn install to action",
+        "body": "",
+        "tags": [],
+        "type": "fix",
+        "scope": null,
+        "scopeText": null,
+        "breakingChange": false,
+        "description": "add yarn install to action"
+      },
+      {
+        "fullHash": "01c83a851e85795951cc6faa74f4b8bc6815b2f0",
+        "partialHash": "01c83a8",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T16:06:19.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T16:06:19.000Z",
+        "subject": "refactor: fix button code",
+        "body": "",
+        "tags": [],
+        "type": "refactor",
+        "scope": null,
+        "scopeText": null,
+        "breakingChange": false,
+        "description": "fix button code"
+      },
+      {
+        "fullHash": "0467bc055de0f48fb6f5ad6abd0085daa8e2fec2",
+        "partialHash": "0467bc0",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T00:39:31.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T00:39:31.000Z",
+        "subject": "wip",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "description": "wip",
+        "breakingChange": false
+      },
+      {
+        "fullHash": "70526484ac8dc70c380451e728e21446ebe3868f",
+        "partialHash": "7052648",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T00:38:13.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T00:38:13.000Z",
+        "subject": "wip",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "description": "wip",
+        "breakingChange": false
+      },
+      {
+        "fullHash": "7dde79c73ba8ed08edcf2c281956bd42c09e7754",
+        "partialHash": "7dde79c",
+        "author": {
+          "name": "MM",
+          "email": "85508050+MattyMags@users.noreply.github.com"
+        },
+        "authorTime": "2022-08-30T00:36:08.000Z",
+        "committer": {
+          "name": "GitHub",
+          "email": "noreply@github.com"
+        },
+        "commitTime": "2022-08-30T00:36:08.000Z",
+        "subject": "Merge pull request #12 from MattyMags/master",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "description": "Merge pull request #12 from MattyMags/master",
+        "breakingChange": false
+      },
+      {
+        "fullHash": "920ce621a3cf1dc5a178360b994383aa4e072a39",
+        "partialHash": "920ce62",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T00:35:38.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T00:35:38.000Z",
+        "subject": "fix: add changelog shit",
+        "body": "",
+        "tags": [],
+        "type": "fix",
+        "scope": null,
+        "scopeText": null,
+        "breakingChange": false,
+        "description": "add changelog shit"
+      }
+    ]
+  },
+  "vv1.6.0": {
+    "title": "vv1.6.0",
+    "date": "2022-8-30",
+    "commits": []
+  },
+  "v1.6.0": {
+    "title": "v1.6.0",
+    "date": "2022-8-29",
+    "commits": [
+      {
+        "fullHash": "9a0e32d50a57ae0794ccc738ff3754acc7db4eb2",
+        "partialHash": "9a0e32d",
+        "author": {
+          "name": "GitHub actions",
+          "email": "noreply@github.com"
+        },
+        "authorTime": "2022-08-30T00:32:48.000Z",
+        "committer": {
+          "name": "GitHub actions",
+          "email": "noreply@github.com"
+        },
+        "commitTime": "2022-08-30T00:32:48.000Z",
+        "subject": "Prepare release v1.6.0",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "description": "Prepare release v1.6.0",
+        "breakingChange": false
+      },
+      {
+        "fullHash": "9b98b4506da77cd767e5314ec4c4d28d3383d140",
+        "partialHash": "9b98b45",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T00:31:59.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T00:31:59.000Z",
+        "subject": "Merge branch 'dev' of https://github.com/MattyMags/git-flow-changelog into dev",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "breakingChange": false,
+        "description": "//github.com/MattyMags/git-flow-changelog into dev"
+      },
+      {
+        "fullHash": "a353910c6afb1e4d3e848087b5a0588be9bcaf3d",
+        "partialHash": "a353910",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T00:31:54.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T00:31:54.000Z",
+        "subject": "wip: hooray",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "breakingChange": false,
+        "description": "hooray"
+      },
+      {
+        "fullHash": "7ca1c54c7ed90d5be6928bc341b48dea519ed5b0",
+        "partialHash": "7ca1c54",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T00:31:36.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T00:31:36.000Z",
+        "subject": "wip: hooray",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "breakingChange": false,
+        "description": "hooray"
+      },
+      {
+        "fullHash": "d5aa67dc96b658b736a8705522973f0535096f6b",
+        "partialHash": "d5aa67d",
+        "author": {
+          "name": "MM",
+          "email": "85508050+MattyMags@users.noreply.github.com"
+        },
+        "authorTime": "2022-08-29T23:58:52.000Z",
+        "committer": {
+          "name": "GitHub",
+          "email": "noreply@github.com"
+        },
+        "commitTime": "2022-08-29T23:58:52.000Z",
+        "subject": "Merge pull request #10 from MattyMags/master",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "description": "Merge pull request #10 from MattyMags/master",
+        "breakingChange": false
+      }
+    ]
+  },
+  "v1.5.0": {
+    "title": "v1.5.0",
+    "date": "2022-8-29",
+    "commits": [
+      {
+        "fullHash": "7d402ab2896b47e4e56fb97af2453438e446d772",
+        "partialHash": "7d402ab",
+        "author": {
+          "name": "GitHub actions",
+          "email": "noreply@github.com"
+        },
+        "authorTime": "2022-08-29T23:57:47.000Z",
+        "committer": {
+          "name": "GitHub actions",
+          "email": "noreply@github.com"
+        },
+        "commitTime": "2022-08-29T23:57:47.000Z",
+        "subject": "Prepare release v1.5.0",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "description": "Prepare release v1.5.0",
+        "breakingChange": false
+      },
+      {
         "fullHash": "50cb3e97320863a78f706120b013a034ce42c4fc",
         "partialHash": "50cb3e9",
         "author": {
@@ -48,11 +439,6 @@
         "breakingChange": false
       }
     ]
-  },
-  "vv1.4.0": {
-    "title": "vv1.4.0",
-    "date": "2022-8-29",
-    "commits": []
   },
   "v1.4.0": {
     "title": "v1.4.0",
