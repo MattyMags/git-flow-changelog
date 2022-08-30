@@ -34,6 +34,9 @@ jobs:
       - name: Bump version in package.json
         run: yarn version --new-version ${{ github.event.inputs.version }} --no-git-tag-version
 
+      - name: Install deps
+        run: |
+          yarn install
       - name: Create Changelog
         run: yarn changelog
 
