@@ -34,10 +34,16 @@ jobs:
       - name: Bump version in package.json
         run: yarn version --new-version ${{ github.event.inputs.version }} --no-git-tag-version
 
+      - name: Install deps
+        run: |
+          yarn install
+      - name: Create Changelog
+        run: yarn changelog
+
       - name: Commit changelog and manifest files
         id: make-commit
         run: |
-          git add package.json
+          git add package.json CHANGELOG.md
           git commit --message "Prepare release ${{ github.event.inputs.version }}"
 
           echo "::set-output name=commit::$(git rev-parse HEAD)"

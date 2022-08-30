@@ -1,11 +1,11 @@
 {
   "name": "git-flow-changelog",
-  "version": "v1.6.0",
+  "version": "v1.7.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "changelog": "node generateChangelog.js && node changelog.js"
+    "changelog": "pwd"
   },
   "repository": {
     "type": "git",
