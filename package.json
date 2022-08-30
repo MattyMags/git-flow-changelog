@@ -1,10 +1,11 @@
 {
   "name": "git-flow-changelog",
-  "version": "v1.5.0",
+  "version": "v1.6.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "changelog": "node generateChangelog.js && node changelog.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/MattyMags/git-flow-changelog/issues"
   },
-  "homepage": "https://github.com/MattyMags/git-flow-changelog#readme"
+  "homepage": "https://github.com/MattyMags/git-flow-changelog#readme",
+  "dependencies": {
+    "fs-extra": "^10.1.0",
+    "git-log-as-object": "^2.0.0",
+    "yargs": "^17.5.1"
+  }
 }
